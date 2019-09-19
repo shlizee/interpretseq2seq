@@ -1,0 +1,15 @@
+7
+1 walking
+1020 1115 1190
+2 both_arms_rotations
+1685 1700 1730
+3 one_arm_rotations
+2330 2350 2365
+4 both_arms_rotations
+2730 2755 2766
+5 one_arm_rotations
+4020 4030 4050
+6 both_arms_rotations
+4600 4670 4720
+7 walking
+5674

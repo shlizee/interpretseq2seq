@@ -1,0 +1,21 @@
+10
+1 walking
+960 1025 1105
+2 climb_up
+1460 1560 1650
+3 stand_moving_hands_a_bit
+2280 2315 2380
+4 climb_down
+2580 2680 2710
+5 standing
+3010 3100 3150
+6 climb_up
+3560 3670 3770
+7 look_around
+4670 4700 4710
+8 point
+4810 4850 4880
+9 climb_down
+5170 5250 5360
+10 walking
+6220

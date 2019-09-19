@@ -1,0 +1,23 @@
+11
+1 walk
+760 818 850
+2 jump_up_several_times
+1480 1550 1675
+3 jumping_jacks
+2270 2320 2400
+4 jump_forward
+3150 3225 3324
+5 jump_on_one_leg
+3881 3840 4000
+6 walk
+4480 4550 4590 
+7 punch
+5150 5200 5250
+8 cheer
+5800 5870 5940
+9 raise_arms
+6510 6570 6630
+10 slap
+7300 7350 7400
+11 walk
+8341

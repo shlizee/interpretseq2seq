@@ -1,0 +1,13 @@
+6
+1 walking
+1900 2000 2010
+2 sitting
+3780 3790 3850
+3 walk
+4930 5000 5150
+4 stand_in_inclined_position
+5440 5670 5680
+5 run
+6600 6670 6720
+6 walk
+7582

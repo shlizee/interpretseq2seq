@@ -1,0 +1,23 @@
+11
+1 walking
+900 1100 1130
+2 sit_ups
+1845 1875 1920
+3 body_rotations
+2645 2695 2740
+4 arm_rotations
+3300 3330 3360
+5 standing
+3915 3950 4010
+6 leg_kick_back
+4700 4800 4850
+7 run
+5580 5640 5775
+8 standing
+6330 6350 6420
+9 stretch
+7150 7165 7180
+10 punches
+8120 8190 8230
+11 walking
+9205

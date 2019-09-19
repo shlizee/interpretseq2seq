@@ -1,0 +1,15 @@
+7
+1 walking
+500 550 600
+2 jump_forward
+1100 1150 1200
+3 walking
+1930 1980 2030
+4 punching
+2450 2500 2550
+5 walking
+3150 3200 3250
+6 leg_kicking
+4015 4065 4115
+7 punching
+4579

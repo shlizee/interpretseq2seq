@@ -1,0 +1,9 @@
+Syntax of each ground truth file:
+<num segments>
+<segment 1 entry>
+<segment 2 entry>
+...
+
+Each segment entry contains the following info:
+<segment index> <segment description>
+<our estimate for earliest acceptable transition frame> <our estimate for best transition frame> <our estimate for latest acceptable transition frame>

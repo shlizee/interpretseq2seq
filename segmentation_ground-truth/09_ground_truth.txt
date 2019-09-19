@@ -1,0 +1,13 @@
+6
+1 walking
+880 1020 1045
+2 sitting
+1240 1300 1400
+3 looking_around
+2060 2160 2170
+4 clapping
+2825 2830 2880
+5 standing_and_clapping
+3600 3670 3700
+6 walk
+4793

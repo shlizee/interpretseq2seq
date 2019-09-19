@@ -1,0 +1,21 @@
+10
+1 walk
+970 1019 1100
+2 stretch_two_times
+2180 2250 2295
+3 punch_eight_times
+3368 3440 3500
+4 stand_at_spot_wiggle_arm_a_little_bit
+4000 4074 4130
+5 walk
+4060 5050 5090
+6 slap
+5830 5870 5930
+7 turn_on_spot_360deg_two_times
+6600 6690 6750 
+8 drink
+8000 8070 8150
+9 punch
+9080 9110 9200
+10 walk
+10077

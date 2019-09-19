@@ -1,0 +1,21 @@
+10
+1 walk
+1040 1090 1140
+2 rotate_body
+1870 1910 1950 
+3 rotate_arms
+2525 2575 2590
+4 rotate_body
+3640 3690 3720
+5 rotate_arms
+4420 4460 4500 
+6 jump_up 
+5040 5100 5200
+7 jump_forward 
+5700 5770 5840
+8 walk
+6910 6980 7040
+9 run
+7750 7800 7850
+10 walk
+8703

@@ -1,0 +1,22 @@
+9
+1 walk
+900 975 1050 
+2 run
+1800 1900 1970 
+3 jump
+2351 2420 2500 
+4 walk
+3414 3500 3570 
+5 leg_kick
+4612 4660 4730
+6 jump_on_left_leg
+5350 5420 5500
+7 jump_on_right_leg
+6150 6200 6280 
+8 arm_circling
+6900 7000 7070 
+9 walking
+8400
+
+
+

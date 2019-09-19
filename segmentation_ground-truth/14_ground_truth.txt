@@ -1,0 +1,15 @@
+7
+1 walking_lead_ball
+630 680 700
+2 through_catch_ball
+1890 1970 1980
+3 lead_ball_right_hand
+2900 2930 3000
+4 lead_ball_both_hand
+4090 4220 4240
+5 lead_ball_right_hand
+5030 5090 5105
+6 jam_ball
+5240 5280 5320
+7 walking
+6054

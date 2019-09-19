@@ -1,0 +1,17 @@
+8
+1 walking
+910 1020 1120
+2 draging
+1560 1700 1790
+3 sweeping_floor
+3210 3300 3340
+4 collect_dirt
+4115 4150 4200
+5 through_it_away
+4935 5000 5020
+6 get_up_and_short_walk
+5300 5315 5320
+7 wash_window
+7500 7640 7680
+8 walking
+8855
